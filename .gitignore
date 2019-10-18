@@ -1,3 +1,4 @@
 vendor/*
 xpub.txt
 log*
+composer.phar

@@ -1,0 +1,1 @@
+./hd-wallet-addrs.php -g --xpubfile=xpub.txt --include-unused --format=addrlist --logfile=log.txt
